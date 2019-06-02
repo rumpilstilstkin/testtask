@@ -1,0 +1,6 @@
+1592080529,Point1,111,Fname Fname.Sname.,01.10.2011
+1219086573,Point1,111,Fname Fname.Sname.,01.10.2011
+1592080529,Point2,222,Fname2 Fname2.Sname2.,02.12.2022
+863260421,Point1,111,Fname Fname.Sname.,01.10.2011
+2117923877,Point1,111,Fname Fname.Sname.,01.10.2011
+863260421,Point2,222,Fname2 Fname2.Sname2.,02.12.2022
